@@ -1,7 +1,9 @@
 
-# Spring webflux - criando seu gerenciador de herois
+# Spring Webflux - criando seu gerenciador de herois
 
-## Stack utilizada
+Gerenciador de herois utilizando Java Spring Webflux
+
+## Tecnologias utilizadas
 
   * Java8
   * spring webflux
